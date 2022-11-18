@@ -9,24 +9,11 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
+  - display:
       header: true
-  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: matthew.mckernan@economics.ox.ac.uk
+    icon: <i class="fa-solid fa-envelope"></i>
 organizations:
   - name: University of Oxford
     url: https://www.economics.ox.ac.uk
