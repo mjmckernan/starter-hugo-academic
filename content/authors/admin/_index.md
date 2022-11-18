@@ -28,19 +28,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Oxford
+    url: https://www.economics.ox.ac.uk
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: DPhil Economics
+      institution: University of Oxford
+      year: ""
+    - course: MPhil Economics (Distinction)
+      institution: University of Oxford
+      year: ""
+    - course: BA Philosophy, Politics & Economics
+      institution: University of Durham
+      year: ""
 superuser: true
 last_name: Bighetti
 highlight_name: true
